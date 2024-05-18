@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Walls
   - Bouncing Walls
+  - Ball
+  - PlayerLeft
+  - PlayerRight
   layers:
   - Default
   - TransparentFX
