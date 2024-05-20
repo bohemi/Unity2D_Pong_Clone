@@ -11,7 +11,7 @@ public class ScoreSystem : MonoBehaviour
 
     private void Awake()
     {
-        if (_leftTextScore == null || _rightTextScore == null)
+        if (!_leftTextScore || !_rightTextScore)
         {
             Debug.LogError("Texts are null", this);
         }

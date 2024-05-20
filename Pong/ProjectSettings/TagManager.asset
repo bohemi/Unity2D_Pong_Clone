@@ -4,11 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Walls
   - Bouncing Walls
   - Ball
   - PlayerLeft
   - PlayerRight
+  - HorizontalWalls
   layers:
   - Default
   - TransparentFX
